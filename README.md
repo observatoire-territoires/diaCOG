@@ -1,8 +1,7 @@
 # diaCOG
-Application de diagnostic de COG
 
 <p align = right>
-  <img src="https://github.com/observatoire-territoires/diaCOG/tree/main/www/logo_OT.png"/>
+  <img src="https://raw.githubusercontent.com/observatoire-territoires/diaCOG/master/www/logo_OT.png"/>
 </p>
 
 # Le COG, c’est quoi ?
@@ -27,4 +26,4 @@ diag_COG(exemple_popcom)
 - avec l’application R Shiny « diaCOG »
 https://observatoire-des-territoires.shinyapps.io/diaCOG/
 
-<img src = "https://github.com/observatoire-territoires/diaCOG/diaCOG_exemple.png"/>
+<img src = "https://raw.githubusercontent.com/observatoire-territoires/diaCOG/diaCOG_exemple.png"/>
