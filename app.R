@@ -144,7 +144,7 @@ ui <- fluidPage(
                                    h3("Quelles sont les étapes du diagnostic de COG ?"),
                                    p(class = "apropos-txt", "Suivant le degré de « propreté » du référentiel communal, le diagnostic de COG se déroule en 3 étapes : "),
                                    tags$ul(class = "apropos-txt", 
-                                       tags$li("•	on commence par identifier les codes qui correspondent à des codes de collectivités d’outre-mer ou à des codes d’arrondissements municipaux ; ceux-ci sont identifiés et mis de côté pour la seconde étape du diagnostic ;"),
+                                       tags$li("on commence par identifier les codes qui correspondent à des codes de collectivités d’outre-mer ou à des codes d’arrondissements municipaux ; ceux-ci sont identifiés et mis de côté pour la seconde étape du diagnostic ;"),
                                        tags$li("pour chaque millésime de COG, de 2021 à 1968, on vérifie ensuite si l’ensemble des codes communes du référentiel communal à diagnostiquer sont présents. Si c’est le cas, le diagnostic renvoie le COG le plus récent contenant l’ensemble des communes du référentiel communal à diagnostiquer ;"),
                                        tags$li("si aucun millésime de COG ne contient l’ensemble des codes présents dans le référentiel communal à diagnostiquer, alors le COG de référence est jugé « non identifiable » et on cherche, pour chaque code, le millésime de COG le plus récent où ce code a existé ou, s’il n’a jamais existé (par exemple un code « ZZZZZ »), on identifie ce code comme « indéterminé ». ")
                                   ),
