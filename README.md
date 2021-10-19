@@ -2,7 +2,7 @@
 Application de diagnostic de COG
 
 <p align = right>
-  <img src="https://github.com/observatoire-territoires/diaCOG/www/logo_OT.png"/>
+  <img src="https://github.com/observatoire-territoires/diaCOG/tree/main/www/logo_OT.png"/>
 </p>
 
 # Le COG, c’est quoi ?
