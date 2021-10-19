@@ -1,0 +1,13 @@
+name: diaCOG-test
+title: diaCOG-test
+username:
+account: observatoire-des-territoires
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4387908
+bundleId: 4821602
+url: https://observatoire-des-territoires.shinyapps.io/diaCOG-test/
+when: 1626337898.32704
+lastSyncTime: 1626337898.32704
+asMultiple: FALSE
+asStatic: FALSE

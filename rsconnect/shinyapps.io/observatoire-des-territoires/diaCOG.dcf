@@ -1,0 +1,14 @@
+name: diaCOG
+title:
+username:
+account: observatoire-des-territoires
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4369364
+bundleId: 5153722
+url: https://observatoire-des-territoires.shinyapps.io/diaCOG/
+when: 1634638413.17277
+lastSyncTime: 1634638413.17277
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/COG.RData
