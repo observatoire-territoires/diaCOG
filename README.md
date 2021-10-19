@@ -26,4 +26,4 @@ diag_COG(exemple_popcom)
 - avec l’application R Shiny « diaCOG »
 https://observatoire-des-territoires.shinyapps.io/diaCOG/
 
-<img src = "https://raw.githubusercontent.com/observatoire-territoires/diaCOG/diaCOG_exemple.png"/>
+<img src = "https://raw.githubusercontent.com/observatoire-territoires/diaCOG/master/diaCOG_exemple.png"/>
