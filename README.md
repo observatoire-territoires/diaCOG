@@ -15,7 +15,7 @@ Quand on souhaite manipuler un tableau de données à l’échelon communal mais
 
 # Comment faire son propre diagnostic de COG ?
 Deux options sont possibles : 
-- directement avec R grâce au package `COGugaison` avec la fonction `diag_COG()`
+- directement avec R grâce au package [`COGugaison`](https://github.com/antuki/COGugaison) avec la fonction `diag_COG()`
 
 ```r
 remotes::install_github("antuki/COGugaison")
